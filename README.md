@@ -58,9 +58,9 @@ Below is a curated comparison of leading enterprise SaaS and hosted transformati
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source projects for SQL transformation, data pipeline orchestration, and ELT integration, sorted by **GitHub Stars (Descending)**:
+Below is a list of top open-source projects for SQL transformation, data pipeline orchestration, and ELT integration, sorted by **GitHub_Stars (Descending)**:
 
-| Project | Stars | License | Primary Category | Description |
+| Project | GitHub_Stars | License | Primary Category | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** | [<img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="Apache Airflow Stars"/>](https://github.com/apache/airflow/stargazers) | Apache-2.0 | Orchestration | De facto open-source workflow management platform to programmatically author, schedule, and monitor data transformation pipelines. |
 | **[Airbyte](https://github.com/airbytehq/airbyte)** | [<img src="https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white" alt="Airbyte Stars"/>](https://github.com/airbytehq/airbyte/stargazers) | ELv2 / MIT | Data Integration & ELT | Leading open-source data integration engine with 350+ pre-built connectors to extract and load data prior to warehouse transformation. |
